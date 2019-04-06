@@ -19,13 +19,14 @@
 
       "toolbar_top_separator": [28, 27, 33],
       "toolbar_bottom_separator": [28, 27, 33],
-      "toolbar_vertical_separator": [79, 91, 102],
+      "toolbar_vertical_separator": [50, 49, 60],
 
       "toolbar_field": [37, 36, 44],
-      "toolbar_field_text": [255, 255, 255],
+      "toolbar_field_text": [210, 214, 221],
       "toolbar_field_focus": [37, 36, 44],
       "toolbar_field_border": [28, 27, 33],
       "toolbar_field_border_focus": [69, 55, 98],
+      "toolbar_field_highlight": [69, 55, 98],
       "toolbar_field_separator": [50, 49, 60],
       "bookmark_text": [210, 214, 221],
 
@@ -33,20 +34,21 @@
       "tab_text": [255, 255, 255],
       "tab_background_separator": [167, 173, 186],
 
-      "button_background_hover": [79, 91, 102],
-      "button_background_active": [101, 115, 126],
+      "button_background_hover": [74, 71, 87],
+      "button_background_active": [83, 80, 98],
 
-      "popup": [50, 49, 60],
+      "popup": [37, 36, 44],
+      "popup_highlight": [89, 51, 200],
       "popup_text": [210, 214, 221],
       "popup_border": [28, 27, 33],
 
-      "sidebar": [50, 49, 60],
+      "sidebar": [37, 36, 44],
       "sidebar_text": [210, 214, 221],
-      "sidebar_highlight": [50, 49, 60],
-      "sidebar_highlight_text": [255, 255, 255],
+      "sidebar_highlight": [89, 51, 200],
+      "sidebar_highlight_text": [255, 225, 255],
       "sidebar_border": [28, 27, 33],
 
-      "ntp_background": [28, 27, 33],
+      "ntp_background": [37, 36, 44],
       "ntp_text": [255, 255, 255]
     }
   }
