@@ -4,11 +4,17 @@ A dark purplish theme for Firefox
 
 ## Color Palette
 
-![Color Palette](screenshots/1.color-palette.png)
+### Main colors
+
+![Color Palette - Main colors](screenshots/color-palette-1.png)
+
+### Secondary colors
+
+![Color Palette - Secondary colors](screenshots/color-palette-2.png)
 
 ## Screenshots
 
-![Screenshot](screenshots/2.screenshot.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## Extra
 
